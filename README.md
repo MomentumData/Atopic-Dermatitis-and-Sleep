@@ -7,9 +7,15 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 ## Algorithms for identification
 
 ### Atopic Dermatitis (AD)
-AD will be identified and defined using a validated AD case definition.[^1]
+AD will be identified and defined using a validated AD case definition.[^1] AD case identification will use a combination of AD specific diagnosis codes and two or more AD treatment prescribed on different dates.
 
-- People identified with a diagnosis code for AD **[insert link]**
+- People identified with a specific diagnosis code for AD **[insert link]**
+
+### AD treatments
+- Emollients
+  - Topical Steroids;
+  
+- Topical 
 
 # References
 [^1] de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
