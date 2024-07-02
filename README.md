@@ -44,6 +44,19 @@ People identified with a diagnosis code for for sleep disturbance **[insert link
 ### Medications used for sleep disturbance
 
 #### Non-sedating antihistamines
+• Acrivastine 
+•	Bilastine 
+•	Cetirizine
+•	Cetirizine hydrochloride 
+•	Desloratadine 
+•	Fexofenadine
+•	Fexofenadine hydrochloride
+•	Levocetirizine 
+•	Levocetirizine dihydrochloride 
+•	Loratadine 
+•	Mizolastine 
+•	Rupatadine 
+•	Rupatadine fumarate
 
 
 
