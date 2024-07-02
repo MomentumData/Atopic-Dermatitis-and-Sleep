@@ -38,6 +38,19 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
   
 - Dermatology Referrals
 
+### AD severity
+AD severity will be defined using AD treatments utilizing a validated definition which has been previously implemented using primary care records.[^2] 
+- AD is considered mild, by default.
+- AD is considered moderate, following the prescription of a second potent topical steroid treatment within one year or a first topical calcineurin inhibitor.
+- AD is considered severe, at the first prescription of a systemic immunosuppressant treatment (ciclosporin, azathioprine, mycophenolate, methotrexate and biologics), phototherapy or a dermatology referral.
+  
+For an individual patient with active AD, severity can change during the study follow-up: once fulfilling criteria for moderate AD, cases remain as moderate unless they develop severe AD. When fulfilling criteria for severe AD, cases remained as severe for the remainder of their follow-up.
+
+### Atopic comorbidity
+- Asthma
+- Allergic rhinitis
+- Urticaria
+
 ### Sleep disturbance
 People identified with a diagnosis code for for sleep disturbance **[insert link]**
 
@@ -58,7 +71,39 @@ People identified with a diagnosis code for for sleep disturbance **[insert link
 -	Rupatadine 
 -	Rupatadine fumarate
 
+#### Sedating antihistamines
+-	Alimemazine
+-	Azatadine 
+-	Chlorphenamine
+-	Clemastine
+-	Cyproheptadine 
+-	Dexchlorpheniramine 
+-	Dimetindene
+-	Diphenhydramine 
+-	Diphenylpyraline 
+-	Hydroxyzine
+-	Ketotifen 
+-	Mebhydrolin
+-	Meclozine 
+-	Mequitazine
+-	Oxatomide
+-	Phenindamine
+-	Pheniramine 
+-	Promethazine
 
+#### Melatonin
+People identified with a prescription code for melatonin **[insert link]**
+
+### Mental health outcomes
+
+#### Depression
+
+#### Anxiety
+
+#### Attention Deficit Hyperactivity Disorder (ADHD)
+
+#### Behavioural disorders
 
 # References
 [^1] de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
+[^2] Tippu Z, Correa A, Liyanage H, et al. Ethnicity Recording in Primary Care Computerised Medical Record Systems: An Ontological Approach. J Innov Health Inform 2017;23(4):920. doi: 10.14236/jhi.v23i4.920 [published Online First: 2017/03/28]
