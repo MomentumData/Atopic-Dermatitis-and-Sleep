@@ -10,33 +10,33 @@ All of the conditions and medications mentioned below will use diagnostic codes 
 ### Atopic Dermatitis (AD)
 AD will be identified and defined using a validated AD case definition.[^1] AD case identification will use a combination of AD specific diagnosis codes and two or more AD treatment prescribed on different dates.
 
-- People identified with a specific diagnosis code for AD **[insert link]**
+- People identified with a specific diagnosis code for [AD]()
 
-### AD treatments **[insert link]**
-- Emollients
+### AD treatments
+- [Emollients]()
 
-- Topical Steroids:
-  - Very potent topical steroids
-  - Potent topical steroids
-  - Moderate topical steroids
-  - Mild topical steroids
+- [Topical Steroids]():
+  - [Very potent topical steroids]()
+  - [Potent topical steroids]()
+  - [Moderate topical steroids]()
+  - [Mild topical steroids]()
   
-- Topical calcineurin inhibitors
+- [Topical calcineurin inhibitors]()
   
-- Topical anti-infective treatments
+- [Topical anti-infective treatments]()
   
 - Systemic immunosuppressant treatments:
-  - Methotrexate
-  - Azathioprine
-  - Mycophenolate
-  - Ciclosporin
+  - [Methotrexate]()
+  - [Azathioprine]()
+  - [Mycophenolate]()
+  - [Ciclosporin]()
   - Biologics:
-    - Baricitinib
-    - Dupilumab
+    - [Baricitinib]()
+    - [Dupilumab]()
       
-- Phototherapy
+- [Phototherapy]()
   
-- Dermatology Referrals
+- [Dermatology Referrals]()
 
 ### AD severity
 AD severity will be defined using AD treatments utilizing a validated definition which has been previously implemented using primary care records.[^2] 
@@ -47,62 +47,59 @@ AD severity will be defined using AD treatments utilizing a validated definition
 For an individual patient with active AD, severity can change during the study follow-up: once fulfilling criteria for moderate AD, cases remain as moderate unless they develop severe AD. When fulfilling criteria for severe AD, cases remained as severe for the remainder of their follow-up.
 
 ### Atopic comorbidity
-- Asthma
-- Allergic rhinitis
-- Urticaria
+- [Asthma]()
+- [Allergic rhinitis]()
+- [Urticaria]()
 
 ### Sleep disturbance
-People identified with a diagnosis code for for sleep disturbance **[insert link]**
+People identified with a diagnosis code for for [sleep disturbance]() **[insert link]**
 
 ### Medications used for sleep disturbance
 
 #### Non-sedating antihistamines
-- Acrivastine 
--	Bilastine 
--	Cetirizine
--	Cetirizine hydrochloride 
--	Desloratadine 
--	Fexofenadine
--	Fexofenadine hydrochloride
--	Levocetirizine 
--	Levocetirizine dihydrochloride 
--	Loratadine 
--	Mizolastine 
--	Rupatadine 
--	Rupatadine fumarate
+- [Acrivastine]() 
+-	[Bilastine]()
+-	[Cetirizine]()
+-	[Desloratadine]()
+-	[Fexofenadine]()
+-	[Levocetirizine]()
+-	[Loratadine]() 
+-	[Mizolastine]()
+-	[Rupatadine]()
+
 
 #### Sedating antihistamines
--	Alimemazine
--	Azatadine 
--	Chlorphenamine
--	Clemastine
--	Cyproheptadine 
--	Dexchlorpheniramine 
--	Dimetindene
--	Diphenhydramine 
--	Diphenylpyraline 
--	Hydroxyzine
--	Ketotifen 
--	Mebhydrolin
--	Meclozine 
--	Mequitazine
--	Oxatomide
--	Phenindamine
--	Pheniramine 
--	Promethazine
+-	[Alimemazine]()
+-	[Azatadine]() 
+-	[Chlorphenamine]()
+-	[Clemastine]()
+-	[Cyproheptadine]() 
+-	[Dexchlorpheniramine]() 
+-	[Dimetindene]()
+-	[Diphenhydramine]() 
+-	[Diphenylpyraline]() 
+-	[Hydroxyzine]()
+-	[Ketotifen]()
+-	[Mebhydrolin]()
+-	[Meclozine]()
+-	[Mequitazine]()
+-	[Oxatomide]()
+-	[Phenindamine]()
+-	[Pheniramine]()
+-	[Promethazine]()
 
 #### Melatonin
-People identified with a prescription code for melatonin **[insert link]**
+People identified with a prescription code for [melatonin]()
 
 ### Mental health outcomes
 
-#### Depression
+#### [Depression]()
 
-#### Anxiety
+#### [Anxiety]()
 
-#### Attention Deficit Hyperactivity Disorder (ADHD)
+#### [Attention Deficit Hyperactivity Disorder (ADHD)]()
 
-#### Behavioural disorders
+#### [Behavioural disorders]()
 
 # References
 [^1]: de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
