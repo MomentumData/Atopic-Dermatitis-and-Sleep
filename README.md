@@ -13,9 +13,21 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
 
 ### AD treatments
 - Emollients
-  - Topical Steroids;
-  
-- Topical 
+- Topical Steroids:
+  - Very potent topical steroids
+  - Potent topical steroids
+  - Moderate topical steroids
+  - Mild topical steroids
+- Topical calcineurin inhibitors
+- Topical anti-infective treatments
+- Systemic immunosuppressant treatments
+  - Methotrexate
+  - Azathioprine
+  - Mycophenolate
+  - Ciclosporin
+  - Biologics
+    - Baricitinib
+    - Dupilumab
 
 # References
 [^1] de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
