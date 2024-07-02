@@ -14,13 +14,17 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
 
 ### AD treatments **[insert link]**
 - Emollients
+
 - Topical Steroids:
   - Very potent topical steroids
   - Potent topical steroids
   - Moderate topical steroids
   - Mild topical steroids
+  
 - Topical calcineurin inhibitors
+  
 - Topical anti-infective treatments
+  
 - Systemic immunosuppressant treatments:
   - Methotrexate
   - Azathioprine
@@ -29,7 +33,9 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
   - Biologics:
     - Baricitinib
     - Dupilumab
+      
 - Phototherapy
+  
 - Dermatology Referrals
 
 ### Sleep disturbance
