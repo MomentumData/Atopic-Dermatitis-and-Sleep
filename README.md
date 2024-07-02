@@ -26,7 +26,7 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
 - [Topical anti-infective treatments]()
   
 - Systemic immunosuppressant treatments:
-  - [Methotrexate]()
+  - [Methotrexate](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Treatments/Methotrexate)
   - [Azathioprine]()
   - [Mycophenolate]()
   - [Ciclosporin]()
