@@ -10,7 +10,7 @@ All of the conditions and medications mentioned below will use diagnostic codes 
 ### Atopic Dermatitis (AD)
 AD will be identified and defined using a validated AD case definition.[^1] AD case identification will use a combination of AD specific diagnosis codes and two or more AD treatment prescribed on different dates.
 
-- People identified with a specific diagnosis code for [AD]()
+- People identified with a specific diagnosis code for [AD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/AD%20(Atopic%20Dermatitis))
 
 ### AD treatments
 - [Emollients]()
@@ -52,7 +52,7 @@ For an individual patient with active AD, severity can change during the study f
 - [Urticaria]()
 
 ### Sleep disturbance
-People identified with a diagnosis code for for [sleep disturbance]() **[insert link]**
+People identified with a diagnosis code for for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
 
 ### Medications used for sleep disturbance
 
