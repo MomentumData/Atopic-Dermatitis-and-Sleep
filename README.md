@@ -1,4 +1,4 @@
-# Incidence, management, and impact of sleep disturbance in children and adolescents with atopic dermatitis: a retrospective matched cohort study in the UK 
+# The burden and management of sleep disturbance in children with atopic dermatitis: A retrospective matched cohort study in England 
 Codelists, exposure/outcome definitions and algorithms for "Incidence, management, and impact of sleep disturbance in children and adolescents with atopic dermatitis: a retrospective matched cohort study in the UK" study by Momentum Data.
 
 ## Quality control
