@@ -54,7 +54,7 @@ Any of:
 ### Sleep disturbance
 People identified with a diagnosis code for for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
 
-### Sensitivity Analysis - Non-asthma related sleep disturbance
+### Sensitivity Analysis - Sleep disturbance not attributed to Asthma
 People identified with a diagnosis code for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/cb5741c150989c29ac56b9ee0b3eed0d6e1350f4/Conditions/Sleep%20Disturbance%20not%20attributed%20to%20Asthma), from a subset which excludes any codes that mention asthma.
 
 ### Medications used for sleep disturbance
