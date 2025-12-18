@@ -35,7 +35,7 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
       
 - [Phototherapy]()
   
-- [Dermatology Referrals]()
+- [Dermatology Referral]()
 
 ### AD severity
 AD severity will be defined using AD treatments utilizing a validated definition which has been previously implemented using primary care records.[^2] 
@@ -45,11 +45,27 @@ AD severity will be defined using AD treatments utilizing a validated definition
   
 For an individual patient with active AD, severity can change during the study follow-up: once fulfilling criteria for moderate AD, cases remain as moderate unless they develop severe AD. When fulfilling criteria for severe AD, cases remained as severe for the remainder of their follow-up.
 
+### Asthma
+- [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
+
 ### Atopic comorbidity
 Any of:
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
 - [Allergic rhinitis]()
 - [Urticaria]()
+
+### Allergic comorbidity
+Any of:
+- [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
+- [Allergic rhinitis]()
+- [Urticaria]()
+- [Food Allergy]()
+
+### Autism
+- [Autism]()
+
+### Attention Deficit Hyperactivity Disorder (ADHD)
+- [ADHD]()
 
 ### Sleep disturbance
 People identified with a diagnosis code for for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
@@ -93,20 +109,6 @@ People identified with a diagnosis code for [sleep disturbance](https://github.c
 
 #### Melatonin
 People identified with a prescription code for [melatonin]()
-
-### Mental health outcomes
-
-#### Depression
-Any of:
-- People identified with a diagnosis code for [recurrent depressive disorder](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/RDD%20(Recurrent%20Depressive%20Disorder)).
-- People identified with a diagnosis code for [depressive episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Depressive%20Episodes)
-
-#### Anxiety
-People identified with a diagnosis code for [anxiety episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Anxiety%20Episode)
-
-#### [Attention Deficit Hyperactivity Disorder (ADHD)]()
-
-#### [Behavioural disorders]()
 
 # References
 [^1]: de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
