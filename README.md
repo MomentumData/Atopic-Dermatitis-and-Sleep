@@ -13,29 +13,33 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
 - People identified with a specific diagnosis code for [AD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/AD%20(Atopic%20Dermatitis))
 
 ### AD treatments
-- [Emollients]()
+- [Emollients](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Emollients)
 
-- [Topical Steroids]():
+#### Topical Steroids:
   - [Very potent topical steroids]()
   - [Potent topical steroids]()
   - [Moderate topical steroids]()
   - [Mild topical steroids]()
   
-- [Topical calcineurin inhibitors]()
+- [Topical calcineurin inhibitors](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Topical%20Calcineurin%20Inhibitors)
   
 - [Topical anti-infective treatments]()
   
-- Systemic immunosuppressant treatments:
+#### Systemic immunosuppressant treatments:
   - [Methotrexate](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Treatments/Methotrexate)
   - [Azathioprine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Treatments/Azathioprine)
-  - [Mycophenolate]()
+  - [Mycophenolate](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Mycophenolate%20Mofetil)
   - [Ciclosporin](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Treatments/Ciclosporin)
   - Biologics:
-    - [Dupilumab]()
-      
-- [Phototherapy]()
-  
-- [Dermatology Referral]()
+    - [Dupilumab](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Dupilumab)
+
+#### Phototherapy Referral
+- [Phototherapy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Phototherapy)
+
+#### Dermatology Referral
+Any of:
+- [Specialist Dermatology Referral](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Care%20Use/Specialist%20Dermatology%20Referral)
+- [Specialist Dermatology Review](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Care%20Use/Specialist%20Dermatology%20Review)
 
 ### AD severity
 AD severity will be defined using AD treatments utilizing a validated definition which has been previously implemented using primary care records.[^2] 
@@ -51,14 +55,14 @@ For an individual patient with active AD, severity can change during the study f
 ### Atopic comorbidity
 Any of:
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
-- [Allergic rhinitis]()
-- [Urticaria]()
+- [Allergic rhinitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Allergic%20Rhinitis)
+- [Urticaria](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Urticaria)
 
 ### Allergic comorbidity
 Any of:
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
-- [Allergic rhinitis]()
-- [Urticaria]()
+- [Allergic rhinitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Allergic%20Rhinitis)
+- [Urticaria](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Urticaria)
 - [Food Allergy]()
 
 ### Autism
@@ -76,36 +80,36 @@ People identified with a diagnosis code for [sleep disturbance](https://github.c
 ### Medications used for sleep disturbance
 
 #### Non-sedating antihistamines
-- [Acrivastine]() 
--	[Bilastine]()
--	[Cetirizine]()
--	[Desloratadine]()
+- [Acrivastine]()
+-	[Bilastine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Bilastine)
+-	[Cetirizine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Cetirizine)
+-	[Desloratadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Desloratadine)
 -	[Fexofenadine]()
--	[Levocetirizine]()
--	[Loratadine]() 
--	[Mizolastine]()
--	[Rupatadine]()
+-	[Levocetirizine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Levocetirizine)
+-	[Loratadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Loratadine)
+-	[Mizolastine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Mizolastine)
+-	[Rupatadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Rupatadine)
 
 
 #### Sedating antihistamines
--	[Alimemazine]()
--	[Azatadine]() 
--	[Chlorphenamine]()
--	[Clemastine]()
--	[Cyproheptadine]() 
--	[Dexchlorpheniramine]() 
+-	[Alimemazine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Alimemazine)
+-	[Azatadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Azatadine)
+-	[Chlorphenamine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Chlorphenamine)
+-	[Clemastine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Clemastine)
+-	[Cyproheptadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Cyproheptadine)
+-	[Dexchlorpheniramine]()
 -	[Dimetindene]()
--	[Diphenhydramine]() 
--	[Diphenylpyraline]() 
--	[Hydroxyzine]()
--	[Ketotifen]()
+-	[Diphenhydramine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Diphenhydramine)
+-	[Diphenylpyraline]()
+-	[Hydroxyzine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Hydroxyzine)
+-	[Ketotifen](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Ketotifen)
 -	[Mebhydrolin]()
--	[Meclozine]()
+-	[Meclozine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Meclozine)
 -	[Mequitazine]()
 -	[Oxatomide]()
 -	[Phenindamine]()
 -	[Pheniramine]()
--	[Promethazine]()
+-	[Promethazine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Promethazine)
 
 #### Melatonin
 People identified with a prescription code for [melatonin]()
