@@ -26,7 +26,7 @@ Atopic Dermatitis (AD) will be identified and defined using a validated AD case 
 
 - [Topical calcineurin inhibitors](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Topical%20Calcineurin%20Inhibitors)
   
-- [Topical anti-infective treatments]()
+- [Topical anti-infective treatments](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Treatments/Topical%20Anti-Infectives)
   
 #### Systemic immunosuppressant treatments:
   - [Methotrexate](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Treatments/Methotrexate)
