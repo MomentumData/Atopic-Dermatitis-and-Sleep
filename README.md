@@ -16,11 +16,11 @@ AD will be identified and defined using a validated AD case definition.[^1] AD c
 - [Emollients](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Emollients)
 
 #### Topical Steroids:
-  - [Very potent topical steroids]()
-  - [Potent topical steroids]()
-  - [Moderate topical steroids]()
-  - [Mild topical steroids]()
-  
+  - [Mild topical steroids](https://github.com/MomentumData/Momentum-Data-Codelists/tree/9d049bfbc698dc5678acd29ce171ab26219e0279/Treatments/Mild%20Topical%20Steroids)
+  - [Moderate topical steroids](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ef02573cf3e17ed460e566567c3e265552183661/Treatments/Moderate%20Topical%20Steroids)
+  - [Potent topical steroids](https://github.com/MomentumData/Momentum-Data-Codelists/tree/7bca89f6071339cf1ef97990141a69662f9db3b1/Treatments/Potent%20Topical%20Steroids)
+  - [Very potent topical steroids](https://github.com/MomentumData/Momentum-Data-Codelists/tree/f4a35c5bba40c485c13234695477aa9107bbe6af/Treatments/Very%20Potent%20Topical%20Steroids)
+
 - [Topical calcineurin inhibitors](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Topical%20Calcineurin%20Inhibitors)
   
 - [Topical anti-infective treatments]()
@@ -44,10 +44,12 @@ Any of:
 ### AD severity
 AD severity will be defined using AD treatments utilizing a validated definition which has been previously implemented using primary care records.[^2] 
 - AD is considered mild, by default.
-- AD is considered moderate, following the prescription of a second potent topical steroid treatment within one year or a first topical calcineurin inhibitor.
+- AD is considered moderate, following the prescription of a second potent topical steroid treatment (including very potent topical steroids) within one year or a first topical calcineurin inhibitor.
 - AD is considered severe, at the first prescription of a systemic immunosuppressant treatment (ciclosporin, azathioprine, mycophenolate, methotrexate and biologics), phototherapy or a dermatology referral.
   
 For an individual patient with active AD, severity can change during the study follow-up: once fulfilling criteria for moderate AD, cases remain as moderate unless they develop severe AD. When fulfilling criteria for severe AD, cases remained as severe for the remainder of their follow-up.
+
+## Baseline characteristics
 
 ### Asthma
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
@@ -63,13 +65,15 @@ Any of:
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
 - [Allergic rhinitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Allergic%20Rhinitis)
 - [Urticaria](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Urticaria)
-- [Food Allergy]()
+- [Food Allergy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ebd4281822835a905a31d2d857179dc4f9433f5b/Conditions/Food%20Allergy)
 
 ### Autism
-- [Autism]()
+- [Autism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/726d21351f09487d25365505dfa564602e7af4af/Conditions/Autism)
 
 ### Attention Deficit Hyperactivity Disorder (ADHD)
-- [ADHD]()
+- [ADHD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/726d21351f09487d25365505dfa564602e7af4af/Conditions/ADHD%20(Attention%20Deficicit%20Hyperactivity%20Disorder))
+
+## Outcomes
 
 ### Sleep disturbance
 People identified with a diagnosis code for for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
@@ -89,7 +93,6 @@ People identified with a diagnosis code for [sleep disturbance](https://github.c
 -	[Loratadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Loratadine)
 -	[Mizolastine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Mizolastine)
 -	[Rupatadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Rupatadine)
-
 
 #### Sedating antihistamines
 -	[Alimemazine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Alimemazine)
@@ -112,7 +115,9 @@ People identified with a diagnosis code for [sleep disturbance](https://github.c
 -	[Promethazine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Promethazine)
 
 #### Melatonin
-People identified with a prescription code for [melatonin]()
+People identified with a prescription code for [melatonin](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e8a444d1e201658c22794f711c528acc2a59575f/Treatments/Melatonin)
+
+## Secondary outcomes
 
 # References
 [^1]: de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
