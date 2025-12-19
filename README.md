@@ -8,10 +8,11 @@ All of the conditions and medications mentioned below will use diagnostic codes 
 
 ## Algorithms for case identification
 
-### Atopic Dermatitis (AD)
-AD will be identified and defined using a validated AD case definition.[^1] AD case identification will use a combination of AD specific diagnosis codes and two or more AD treatment prescribed on different dates.
+### Active Atopic Dermatitis
+Atopic Dermatitis (AD) will be identified and defined using a validated AD case definition.[^1] AD case identification will use a combination of AD specific diagnosis codes and two or more AD treatment prescribed on different dates, within 365 days of each other. AD is considered to remain active until 365 days after the final prescription in a period of ongoing prescribing.
 
-- People identified with a specific diagnosis code for [AD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/AD%20(Atopic%20Dermatitis))
+## Atopic Dermatitis
+- People identified with a specific diagnosis code for [Atopic Dermatitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/AD%20(Atopic%20Dermatitis))
 
 ### AD treatments
 
