@@ -131,7 +131,7 @@ People identified with a diagnosis code for [Sleep Disturbance](https://github.c
 -	[Pheniramine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Treatments/Pheniramine)
 -	[Promethazine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Promethazine)
 
-*_Old medications with no medcodes_
+*_Old medications with no prodcodes_
 
 #### Melatonin
 People identified with a prescription code for [melatonin](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e8a444d1e201658c22794f711c528acc2a59575f/Treatments/Melatonin)
