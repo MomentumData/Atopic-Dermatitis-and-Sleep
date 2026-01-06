@@ -60,13 +60,13 @@ For an individual patient with active AD, severity can change during the study f
 ### Atopic comorbidity
 Any of:
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
-- [Allergic rhinitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Allergic%20Rhinitis)
+- [Allergic Rhinitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Allergic%20Rhinitis)
 - [Urticaria](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Urticaria)
 
 ### Allergic comorbidity
 Any of:
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
-- [Allergic rhinitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Allergic%20Rhinitis)
+- [Allergic Rhinitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Allergic%20Rhinitis)
 - [Urticaria](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Urticaria)
 - [Food Allergy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ebd4281822835a905a31d2d857179dc4f9433f5b/Conditions/Food%20Allergy)
 
@@ -78,20 +78,25 @@ Any of:
 
 ### Inflammatory Bowel Disease
 Any of:
+- [Crohn's Disease](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/CD%20(Crohn's%20Disease)%20v2)
+- [Ulcerative Colitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/UC%20(Ulcerative%20Colitis))
 
 ### Rheumatoid/Autoimmune Comorbidity
 Any of:
+- [Juvenile Idiopathic Arthritis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/Juvenile%20Rheumatoid%20Arthritis)
+- [Systemic Sclerosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/Systemic%20Sclerosis)
+- [Psoriatic Arthritis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/PsA%20(Psoriatic%20Arthritis))
 
 ### Family History of Atopy
-- [Family History of Atopy]()
+- [Family History of Atopy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/Family%20History%20of%20Atopy)
 
 ## Outcomes
 
 ### Sleep disturbance
-People identified with a diagnosis code for for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
+People identified with a diagnosis code for for [Sleep Disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
 
 ### Sensitivity Analysis - Sleep disturbance not attributed to Asthma
-People identified with a diagnosis code for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/cb5741c150989c29ac56b9ee0b3eed0d6e1350f4/Conditions/Sleep%20Disturbance%20not%20attributed%20to%20Asthma), from a subset which excludes any codes that mention asthma.
+People identified with a diagnosis code for [Sleep Disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/cb5741c150989c29ac56b9ee0b3eed0d6e1350f4/Conditions/Sleep%20Disturbance%20not%20attributed%20to%20Asthma), from a subset which excludes any codes that mention asthma.
 
 ### Medications used for sleep disturbance
 
@@ -112,24 +117,29 @@ People identified with a diagnosis code for [sleep disturbance](https://github.c
 -	[Chlorphenamine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Chlorphenamine)
 -	[Clemastine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Clemastine)
 -	[Cyproheptadine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Cyproheptadine)
--	[Dexchlorpheniramine]()
--	[Dimetindene]()
+-	Dexchlorpheniramine*
+-	Dimetindene*
 -	[Diphenhydramine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Diphenhydramine)
--	[Diphenylpyraline]()
+-	Diphenylpyraline*
 -	[Hydroxyzine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Hydroxyzine)
 -	[Ketotifen](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Ketotifen)
--	[Mebhydrolin]()
+-	Mebhydrolin*
 -	[Meclozine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Meclozine)
--	[Mequitazine]()
--	[Oxatomide]()
--	[Phenindamine]()
--	[Pheniramine]()
+-	Mequitazine*
+-	Oxatomide*
+-	Phenindamine*
+-	[Pheniramine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Treatments/Pheniramine)
 -	[Promethazine](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Treatments/Promethazine)
+
+*_Old medications with no medcodes_
 
 #### Melatonin
 People identified with a prescription code for [melatonin](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e8a444d1e201658c22794f711c528acc2a59575f/Treatments/Melatonin)
 
 ## Secondary outcomes
+- [Haematological Cancer](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/Haematological%20Cancer)
+- [Solid Cancer](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/Solid%20Cancer)
+- [Pruritus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/Pruritus)
 
 # References
 [^1]: de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
